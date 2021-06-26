@@ -1,0 +1,18 @@
+Deliver Flaps developed by Florencio Olsen
+Made for FBLA 2020-2021
+
+Year concept development started: 2019
+Year development started: 2020
+Year development ended: 2021
+
+Special thanks:
+-Cornforth
+-Lexaloffle Games
+-Takashi
+-Yoyo Games
+-FBLA
+-FCCLA
+-Everyone who competed
+-Family
+-Friends
+-YOU! (The person looking at this code)

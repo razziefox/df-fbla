@@ -1,0 +1,21 @@
+{
+  "ConfigValues": {
+    "Release": {"option_lastchanged":"10 February 2021 21:21:46","option_game_speed":"60","option_sci_usesci":"false",},
+    "Preview": {"option_lastchanged":"26 May 2021 1:00:37","option_window_colour":"4278190080","option_game_speed":"9999",},
+    "Debug": {"option_lastchanged":"11 May 2021 21:38:27","option_window_colour":"255","option_game_speed":"60",},
+  },
+  "option_gameguid": "f5adcacb-7c38-4ce9-89c9-7e9eea7cf831",
+  "option_game_speed": 60,
+  "option_mips_for_3d_textures": false,
+  "option_draw_colour": 4294967295,
+  "option_window_colour": 255,
+  "option_steam_app_id": "0",
+  "option_sci_usesci": true,
+  "option_author": "",
+  "option_lastchanged": "",
+  "option_spine_licence": false,
+  "resourceVersion": "1.2",
+  "name": "Main",
+  "tags": [],
+  "resourceType": "GMMainOptions",
+}

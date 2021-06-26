@@ -1,0 +1,42 @@
+{
+  "spriteId": {
+    "name": "sBlock_Two_disabled",
+    "path": "sprites/sBlock_Two_disabled/sBlock_Two_disabled.yy",
+  },
+  "solid": false,
+  "visible": true,
+  "spriteMaskId": {
+    "name": "sBlock_Two_disabled",
+    "path": "sprites/sBlock_Two_disabled/sBlock_Two_disabled.yy",
+  },
+  "persistent": false,
+  "parentObjectId": {
+    "name": "oBlock_disabled",
+    "path": "objects/oBlock_disabled/oBlock_disabled.yy",
+  },
+  "physicsObject": false,
+  "physicsSensor": false,
+  "physicsShape": 1,
+  "physicsGroup": 1,
+  "physicsDensity": 0.5,
+  "physicsRestitution": 0.1,
+  "physicsLinearDamping": 0.1,
+  "physicsAngularDamping": 0.1,
+  "physicsFriction": 0.2,
+  "physicsStartAwake": true,
+  "physicsKinematic": false,
+  "physicsShapePoints": [],
+  "eventList": [
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
+  "properties": [],
+  "overriddenProperties": [],
+  "parent": {
+    "name": "blocks",
+    "path": "folders/Objects/Items/blocks.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "oBlock_Two_disabled",
+  "tags": [],
+  "resourceType": "GMObject",
+}

@@ -1,0 +1,1 @@
+oGame.button_default = 1;
