@@ -136,8 +136,8 @@ function load_scores(argument0) {
 //checks if a player is touching a block
 function check_hug() {
 
-	//checks if coop from oGame is true
-	if oGame.coop = true {
+	//checks if oPlayer_One and oPlayer_Two exists
+	if instance_exists(oPlayer_One) and instance_exists(oPlayer_Two) {
 	
 		// checks if hug_block from both oPlayer_One and oPlayer_Two are false
 		if oPlayer_One.hug_block = false and oPlayer_Two.hug_block = false {
@@ -150,8 +150,11 @@ function check_hug() {
 	
 	} else {
 	
-		//checks if hug_block from oPlayer_One is false
-		if oPlayer_One.hug_block = false return true
+		//checks if hug_block from oPlayer_One is false and if oPlayer_One exists
+		if (instance_exists(oPlayer_One) and oPlayer_One.hug_block = false) return true
+		
+		//checks if hug_block from oPlayer_Two is false and if oPlayer_Two exists
+		if instance_exists(oPlayer_Two) and oPlayer_Two.hug_block = false return true
 	
 	}
 
