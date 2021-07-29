@@ -17,8 +17,8 @@
   "width": 8,
   "height": 8,
   "textureGroupId": {
-    "name": "Default",
-    "path": "texturegroups/Default",
+    "name": "Items",
+    "path": "texturegroups/Items",
   },
   "swatchColours": [
     4278190335,

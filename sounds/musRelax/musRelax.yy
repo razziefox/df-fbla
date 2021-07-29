@@ -1,5 +1,5 @@
 {
-  "compression": 0,
+  "compression": 1,
   "volume": 0.6,
   "preload": false,
   "bitRate": 128,
@@ -11,7 +11,7 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "musRelax.ogg",
-  "duration": 84.20715,
+  "duration": 84.2021561,
   "parent": {
     "name": "music",
     "path": "folders/Sounds/music.yy",

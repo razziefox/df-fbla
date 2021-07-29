@@ -1,5 +1,5 @@
 {
-  "compression": 0,
+  "compression": 1,
   "volume": 0.6,
   "preload": false,
   "bitRate": 128,
@@ -11,7 +11,7 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "musDelivery.ogg",
-  "duration": 105.538376,
+  "duration": 105.533379,
   "parent": {
     "name": "music",
     "path": "folders/Sounds/music.yy",

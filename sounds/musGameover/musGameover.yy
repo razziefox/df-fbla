@@ -2,7 +2,7 @@
   "ConfigValues": {
     "Release": {"audioGroupId":"{\"name\":\"audiogroup_default\",\"path\":\"audiogroups/audiogroup_default\"}",},
   },
-  "compression": 0,
+  "compression": 1,
   "volume": 0.6,
   "preload": false,
   "bitRate": 128,
@@ -14,7 +14,7 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "musGameover.wav",
-  "duration": 5.316565,
+  "duration": 5.311565,
   "parent": {
     "name": "music",
     "path": "folders/Sounds/music.yy",

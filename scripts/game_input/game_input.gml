@@ -11,20 +11,34 @@ function input_a(argument0) {
 		
 		//if argument0 is equal to player slot one
 		case 1:
-		
-			//if left shift is pressed and window is in focus, then return true
-			if keyboard_check_pressed(vk_lshift) and window_has_focus() return true;
 			
 			//if space bar is pressed, then return true
 			if keyboard_check_pressed(vk_space) return true;
-			break;
 			
+			//if lshift is pressed, then return true
+			if keyboard_check_pressed(vk_lshift) and window_has_focus() return true;
+			
+			break;
 			
 		//if argument0 is equal to player slot two
 		case 2:
 		
-			//if right shift is pressed and window is in focus, then return true
-			if keyboard_check_pressed(vk_rshift) and window_has_focus() return true;
+			//checks if game is running in browser
+			if os_browser != browser_not_a_browser {
+				
+				//sets key to vk_enter
+				var key = vk_enter;
+				
+			} else {
+			
+				//sets key to vk_rshift
+				var key = vk_rshift;
+			
+			}
+			
+			//if key is pressed and window is in focus, then return true
+			if keyboard_check_pressed(key) and window_has_focus() return true;
+			
 			break;
 			
 			

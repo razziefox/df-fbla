@@ -1,5 +1,5 @@
 {
-  "compression": 0,
+  "compression": 1,
   "volume": 0.8,
   "preload": false,
   "bitRate": 128,
@@ -11,7 +11,7 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "musResults.wav",
-  "duration": 0.801735,
+  "duration": 0.796735,
   "parent": {
     "name": "music",
     "path": "folders/Sounds/music.yy",

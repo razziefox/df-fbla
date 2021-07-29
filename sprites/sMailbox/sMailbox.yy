@@ -17,8 +17,8 @@
   "width": 15,
   "height": 8,
   "textureGroupId": {
-    "name": "Default",
-    "path": "texturegroups/Default",
+    "name": "Clouds",
+    "path": "texturegroups/Clouds",
   },
   "swatchColours": null,
   "gridX": 0,

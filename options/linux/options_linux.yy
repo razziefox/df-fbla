@@ -4,7 +4,7 @@
     "Debug": {"option_linux_texture_page":"512x512","option_linux_sync":"true","option_linux_interpolate_pixels":"false",},
   },
   "option_linux_display_name": "Delivery Flaps FBLA",
-  "option_linux_version": "1.0.2",
+  "option_linux_version": "1.0.3",
   "option_linux_maintainer_email": "",
   "option_linux_homepage": "florencio-o.itch.io/df-fbla",
   "option_linux_short_desc": "",
