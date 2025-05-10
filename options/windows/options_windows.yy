@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMWindowsOptions",
+  "resourceVersion": "1.1",
+  "name": "Windows",
   "ConfigValues": {
     "Release": {"option_windows_display_cursor":"true","option_windows_icon":"icons/icon.ico","option_windows_display_name":"Delivery Flaps FBLA",},
     "Preview": {"option_windows_display_cursor":"true","option_windows_borderless":"false","option_windows_vsync":"true","option_windows_interpolate_pixels":"false","option_windows_icon":"icons/icon.ico","option_windows_display_name":"Delivery Flaps FBLA",},
@@ -6,9 +9,9 @@
   },
   "option_windows_display_name": "Delivery Flaps FBLA",
   "option_windows_executable_name": "${project_name}.exe",
-  "option_windows_version": "1.0.3.0",
+  "option_windows_version": "1.0.4.0",
   "option_windows_company_info": "",
-  "option_windows_product_info": "Delivery Flaps FBLA",
+  "option_windows_product_info": "",
   "option_windows_copyright_info": "",
   "option_windows_description_info": "",
   "option_windows_display_cursor": true,
@@ -33,9 +36,4 @@
   "option_windows_enable_steam": false,
   "option_windows_disable_sandbox": false,
   "option_windows_steam_use_alternative_launcher": false,
-  "option_windows_use_x64": false,
-  "resourceVersion": "1.1",
-  "name": "Windows",
-  "tags": [],
-  "resourceType": "GMWindowsOptions",
 }

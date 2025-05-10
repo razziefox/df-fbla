@@ -1,10 +1,13 @@
 {
+  "resourceType": "GMHtml5Options",
+  "resourceVersion": "1.0",
+  "name": "HTML5",
   "ConfigValues": {
     "Debug": {"option_html5_loadingbar":"Use Default","option_html5_index":"use_default","option_html5_texture_page":"256x256","option_html5_webgl":"1","option_html5_usebuiltinfont":"false","option_html5_usebuiltinparticles":"false","option_html5_interpolate_pixels":"false","option_html5_foldername":"df-fbla","option_html5_icon":"fav.ico","option_html5_centregame":"false",},
     "Release": {"option_html5_localrunalert":"false","option_html5_outputdebugtoconsole":"false",},
   },
   "option_html5_browser_title": "Delivery Flaps FBLA",
-  "option_html5_version": "1.0.3.0",
+  "option_html5_version": "1.0.4.0",
   "option_html5_foldername": "df-fbla",
   "option_html5_outputname": "index.html",
   "option_html5_splash_png": "${base_options_dir}/html5/splash.png",
@@ -31,8 +34,4 @@
   "option_html5_flurry_id": "",
   "option_html5_google_analytics_enable": false,
   "option_html5_google_tracking_id": "",
-  "resourceVersion": "1.0",
-  "name": "HTML5",
-  "tags": [],
-  "resourceType": "GMHtml5Options",
 }

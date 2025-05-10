@@ -17,6 +17,9 @@ function input_a(argument0) {
 			
 			//if lshift is pressed, then return true
 			if keyboard_check_pressed(vk_lshift) and window_has_focus() return true;
+
+			// if 'z' key is pressed, then return true
+			if keyboard_check_pressed(ord("Z")) return true;
 			
 			break;
 			

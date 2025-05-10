@@ -1,5 +1,5 @@
 //Basic game info
-#macro game_rc "m3"					//set release candidate value
+//#macro game_rc "prod"					//set release candidate value
 #macro game_speed 60					//sets framerate
 #macro game_width 320				//sets game width (Not window width)
 #macro game_height 180				//sets game height (Not window height)

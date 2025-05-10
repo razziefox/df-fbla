@@ -9,7 +9,7 @@ Developed for FBLA 2020-2021
 You may download the game on itchio here: https://razziefox.itch.io/df-fbla
 
 # Building
-To build, you'll need GameMaker Studio 2 2.3.2.560 which can be downloaded [here](https://gms.yoyogames.com/GameMakerStudio-Installer-2.3.2.560.exe).
+To build, you'll need GameMaker 2022.0.3.85 which can be downloaded [here](https://gms.yoyogames.com/GameMaker-Installer-2022.0.3.85.exe).
 
 Once you have it installed, just simply open the project in the IDE. There is no special setup required.
 

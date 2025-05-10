@@ -2,8 +2,12 @@
 
 //setup game window
 window_set_caption(game_title);					//sets game title from game_info
+
+window_set_min_width(game_width);
+window_set_min_height(game_height);
+
 game_setScale(game_default_scale);			//sets default scale
-display_reset(0, false);											//resets window to enable vsync
+display_reset(0, true);											//resets window to enable vsync
 alarm[0] = 1;															//centers screen
 
 //sets game fps from game_info
@@ -29,7 +33,7 @@ if !directory_exists("screenshots") directory_create("screenshots");										//
 if (!directory_exists("mods") and game_debug = true) directory_create("mods");			//checks if 'mods' folder exists, if not then create 'mods' folder
 
 //sets scheduler resolution to 1ms, this helps lower cpu usuage
-scheduler_resolution_set(1)
+//scheduler_resolution_set(1)
 
 //randomizes the seed used for generating random numbers
 randomise();
