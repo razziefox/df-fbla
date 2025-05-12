@@ -2,7 +2,7 @@
 function df_version() {
 
 	//checks what platform delivery flaps is running on
-	if os_type = os_linux {
+	if os_type = os_linux || os_type = os_macosx {
 	
 		//returns the regular gm_version value
 		return GM_version;
